@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 11 problems · 0 labs · 5 math
+**17** solved · 12 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-19 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Random Sample Greedy Search](https://www.deep-ml.com/problems/638) | medium | 2026-11-19 | [solution](problems/0638-random-sample-greedy-search) |
 | [Woodbury, Sherman-Morrison and the Determinant Lemma](https://www.deep-ml.com/problems/1774) | medium | 2026-11-19 | [solution](problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-19 | [solution](problems/0201-qr-decomposition) |
 
 ## Math
 
