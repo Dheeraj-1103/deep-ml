@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:59:39.033Z",
+  "generated_at": "2026-11-19T17:24:21.864Z",
   "items": {
     "problem:150": {
       "kind": "problem",
@@ -159,6 +159,19 @@
       "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
       "first_solved_at": "2026-11-19T16:59:38.402Z",
       "last_pushed_at": "2026-11-19T16:59:38.402Z"
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-11-19T17:24:20.852Z",
+      "last_pushed_at": "2026-11-19T17:24:20.852Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
