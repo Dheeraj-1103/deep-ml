@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:42:44.726Z",
+  "generated_at": "2026-11-19T17:44:25.618Z",
   "items": {
     "problem:150": {
       "kind": "problem",
@@ -235,6 +235,19 @@
       "path": "problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling",
       "first_solved_at": "2026-11-19T17:42:42.971Z",
       "last_pushed_at": "2026-11-19T17:42:42.971Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:1777": {
+      "kind": "problem",
+      "id": "1777",
+      "title": "Least-Norm Solution of an Underdetermined System",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1777",
+      "path": "problems/1777-least-norm-solution-of-an-underdetermined-system",
+      "first_solved_at": "2026-11-19T17:44:24.887Z",
+      "last_pushed_at": "2026-11-19T17:44:24.887Z",
       "language": "python",
       "lines": 49
     }
